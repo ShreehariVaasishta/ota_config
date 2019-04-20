@@ -2,17 +2,17 @@
   "response":[
      {
         "datetime":1552550495,
-        "filename":"dotOS-P-v3.0-rimo02a-OFFICIAL-20190314-0801.zip",
+        "filename":"dotOS-P-v3.0-rimo02a-OFFICIAL-20190417-0735.zip",
         "id":"faa288bd14a9e5c565df222a0bea8da5",
         "romtype":"OFFICIAL",
-        "size":541375012,
+        "size":554512814,
         "url":"https://drive.google.com/open?id=1U-OLq14tkdtPShmdjKMXQdbttfvL7VN0",
         "version":"v3.0",
         "changelog_system":"Android 9.0 Release",
         "changelog_misc":"Added charging vibration settings",
-        "changelog_device":"Added SnapdragonCamera2, Added Audiosphere sound effect, Disabled VSync, updated perf configs, updated audio policy configs, Some Fixes and improvements",
+        "changelog_device":"Testing ",
         "changelog_settings":"New Fresh UI",
-        "changelog_securitypatch":"March 05 2019"
+        "changelog_securitypatch":"April 05 2019"
      }
   ]
 }
